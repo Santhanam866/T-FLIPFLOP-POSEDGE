@@ -43,6 +43,7 @@ From the above characteristic table, we can directly write the next state equati
 /* write all the steps invloved */
 
 **PROGRAM**
+
  module exp9(t, clk, rst, q);
    input t, clk, rst;
    output reg q;
@@ -69,4 +70,5 @@ RegisterNumber:24006231
 ![WhatsApp Image 2024-12-04 at 13 21 19_8853be51](https://github.com/user-attachments/assets/9935c36d-c2c5-404c-92c7-d3ec1c1479ac)
 
 **RESULTS**
+
 Thus the given T flipflop using verilog and validating their functionality using their functional tables are verified.
